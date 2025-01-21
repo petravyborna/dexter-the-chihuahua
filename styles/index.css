@@ -1,0 +1,61 @@
+h1 {
+    color: rgb(239, 242, 242);
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(16, 18, 80);
+
+}
+
+header { 
+    border-width: 3px;
+    border-style: solid;
+    background-color: rgb(186, 186, 190);
+    opacity: 0.9;
+    border-color:rgb(186, 186, 190)
+}
+
+body {
+    background-image: url(../images/dogs.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:200vh;
+}
+
+main {
+    border-width: 3px;
+    border-style: solid;
+    background-color: rgb(186, 186, 190);
+    opacity: 0.9;
+    border-color:rgb(186, 186, 190) ;
+    
+}
+
+img {
+    width: 30%;
+    border-width: 5px;
+    border-style: solid;
+    border-color:rgb(16, 18, 80) ;
+    border-top: 5px solid white;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px white;
+}
+
+footer {
+    border-width: 3px;
+    border-style: solid;
+    background-color: rgb(186, 186, 190);
+    opacity: 0.9;
+    border-color:rgb(186, 186, 190) ;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
