@@ -22,7 +22,7 @@ body {
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
-    height:200vh;
+    min-height:200vh;
 }
 
 main {
